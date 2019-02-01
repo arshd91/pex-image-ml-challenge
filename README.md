@@ -16,8 +16,8 @@ Transfer Learning for coding challenge by Pex.
 
     Find the trained mdoel here: https://drive.google.com/file/d/1b7wzeyPdzLU09mhqrSVpCMkjw4gp2JRc/view?usp=sharing
     
-    ``
-    Epoch 0/9
+    
+        Epoch 0/9
         ----------
         train Loss: 0.1984 Acc: 0.9276
         dev Loss: 0.1056 Acc: 0.9599
