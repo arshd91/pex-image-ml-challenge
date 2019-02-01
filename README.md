@@ -14,7 +14,7 @@ Transfer Learning for coding challenge by Pex.
 
 2. Train using Transfer Learning over pre-trained ResNet-18 Model
 
-    Find the trained mdoel here: https://drive.google.com/file/d/1b7wzeyPdzLU09mhqrSVpCMkjw4gp2JRc/view?usp=sharing
+    Find the trained model here: https://drive.google.com/file/d/1b7wzeyPdzLU09mhqrSVpCMkjw4gp2JRc/view?usp=sharing
     
     
         Epoch 0/9
